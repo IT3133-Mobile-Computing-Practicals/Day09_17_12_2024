@@ -11,7 +11,7 @@ export default function Index() {
       }}
     >
       <Image source={require("../assets/images/react-logo.png")} style={styles.logo}/>
-      <Text style={styles.txt}>Hello World!</Text>
+      <Text style={styles.txt}>Hello World</Text>
       <Text style={styles.subtxt}>My first ReactNative cross platform app</Text>
     </View>
   );
